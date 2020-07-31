@@ -13,7 +13,6 @@ spec:
     metadata:
       labels:
         app: nginx-app
-        app: Palani
     spec:
       containers:
       - name: nginx-container
